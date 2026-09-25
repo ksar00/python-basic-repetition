@@ -1,3 +1,3 @@
 # Opgaver
 
-![CI](https://github.com/ksar00/python-basics-repetition/actions/workflows/ci.yml/badge.svg)
+![CI](https://github.com/ksar00/python-basic-repetition/actions/workflows/ci.yml/badge.svg)
